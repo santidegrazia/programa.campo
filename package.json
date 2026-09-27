@@ -1,0 +1,15 @@
+{
+  "name": "facturador-arca-ganadero",
+  "version": "1.0.0",
+  "description": "Sistema de Liquidación y Facturación Inmediata de Hacienda Vacuna con ARCA",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "qrcode": "^1.5.3"
+  }
+}
